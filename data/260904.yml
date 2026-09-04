@@ -7,7 +7,7 @@ about:
   head: d2f5cb3
   archived: false
   latestVersion: v0.1.1
-  collectedAt: 2026-09-04T19:46:39Z
+  collectedAt: 2026-09-04T20:51:53Z
 timeline:
   created: 2019-07-03
   lastCommit: 2026-08-10
@@ -81,6 +81,29 @@ total:
   openIssue: 0
   commit: 181
 ---
+path: /home/runner/.x-repo/github.com/noborus/psutilsql
+collectedAt: 2026-09-04T20:51:53Z
+loc:
+  Go:
+    code: 2254
+    comments: 93
+    blanks: 247
+    files: 41
+  Makefile:
+    code: 14
+    comments: 0
+    blanks: 7
+    files: 1
+  Markdown:
+    code: 0
+    comments: 186
+    blanks: 81
+    files: 1
+total:
+  code: 2268
+  comments: 279
+  blanks: 335
+  files: 43
 ---
 date: "2026-08-24"
 repo:
