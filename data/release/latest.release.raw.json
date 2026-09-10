@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1567,
       "digest": "sha256:633848f0ec5510068aa2ca54afe9594b12fa828b4bf2d266b5bc4282ed90e865",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-05-22T06:07:05Z",
       "updated_at": "2026-05-22T06:07:06Z",
       "browser_download_url": "https://github.com/noborus/psutilsql/releases/download/v0.1.1/psutilsql.rb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5497172,
       "digest": "sha256:c13400ac76e8294c6f6e45661ba0a98f6a1f7c02305395f4fb28c2744b14c3b1",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-05-22T06:07:02Z",
       "updated_at": "2026-05-22T06:07:03Z",
       "browser_download_url": "https://github.com/noborus/psutilsql/releases/download/v0.1.1/psutilsql_0.1.1_Linux_x86_64.tar.gz"
