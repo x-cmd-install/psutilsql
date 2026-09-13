@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 4984356,
       "digest": "sha256:819134aee8fad2e4980698fb6d7def9d69c369051805972e545debd2f7814317",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-05-22T06:07:05Z",
       "updated_at": "2026-05-22T06:07:06Z",
       "browser_download_url": "https://github.com/noborus/psutilsql/releases/download/v0.1.1/psutilsql_0.1.1_linux_arm64.rpm"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 5497172,
       "digest": "sha256:c13400ac76e8294c6f6e45661ba0a98f6a1f7c02305395f4fb28c2744b14c3b1",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-05-22T06:07:02Z",
       "updated_at": "2026-05-22T06:07:03Z",
       "browser_download_url": "https://github.com/noborus/psutilsql/releases/download/v0.1.1/psutilsql_0.1.1_Linux_x86_64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 5000709,
       "digest": "sha256:4f4c3ea37a756d3d9a64bfc84f5c9b4f1221e29ad0c6d2c2ce1b54c9c8afdd02",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-05-22T06:07:03Z",
       "updated_at": "2026-05-22T06:07:04Z",
       "browser_download_url": "https://github.com/noborus/psutilsql/releases/download/v0.1.1/psutilsql_0.1.1_Windows_arm64.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5550755,
       "digest": "sha256:0b43e2a06c0c14345d42d74b498245feed2622804368f0e36e8f85e42b454350",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-05-22T06:07:02Z",
       "updated_at": "2026-05-22T06:07:03Z",
       "browser_download_url": "https://github.com/noborus/psutilsql/releases/download/v0.1.1/psutilsql_0.1.1_Windows_x86_64.zip"
